@@ -1,6 +1,7 @@
 # 作弊监控系统 · Cheating Monitor System
 
 基于计算机视觉的考试/在线监考作弊行为识别系统。支持**图片**、**视频**、**摄像头实时**三种检测模式,识别头部姿态偏离、瞳孔/视线偏离、手机使用、离座、多人围坐等可疑行为,并以阈值驱动的警报机制生成证据截图与 Excel 报告。
+<img width="1565" height="946" alt="主界面" src="https://github.com/user-attachments/assets/bd7add95-c044-4bdf-a34d-a1e4ab91eb4a" />
 
 ---
 
@@ -362,6 +363,8 @@ pip install openpyxl
 - **多路并发监考** — 一台服务器同时处理多个考生画面流,每路独立检测线程
 
 ---
+获取源码请加微信（备注来意，有偿服务）
+<img width="1268" height="1729" alt="微信" src="https://github.com/user-attachments/assets/ee58efa9-56df-453c-a323-5c708dbfffca" />
 
 ## 十二、致谢
 
